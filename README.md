@@ -76,6 +76,12 @@ Write your code in the index.js file. The base URL for your API will be
   available).
 (359 kB)
 
+# To view the published html page as a website 
+
+https://hassanabdinasir4.github.io/code-challenge-3/
+
+
+
 ### author : "Hassan"
 ## license
 licenced under the [ISC-licenced]
