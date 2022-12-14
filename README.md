@@ -7,14 +7,19 @@ Flatiron Movie Theater is open for business! You will be building out an applica
 * vs-code
 * node
 ## setup
-clone from app [here](https://github.com/57-83/Flatdango)
+clone from app [here](git@github.com:hassanabdinasir4/code-challenge-3.git)
 Run this command to get the backend started:
  `json-server --watch db.json`
+
+
 Test your server by visiting this route in the browser:
   http://localhost:3000/films
+
 Then, open the index.html file on your browser to run the application.
 Write your code in the index.js file. The base URL for your API will be
   http://localhost:3000.
+
+  
 ## Core Deliverables
 1. See the first movie's details, including its **poster, title, runtime,
    showtime, and available tickets** when the page loads. The number of
